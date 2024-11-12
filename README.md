@@ -13,4 +13,4 @@ Getting Started
 3. Execute the app, and you have a reliable compression tool that keeps your images safe and fully under your control.
 
 This is the frontend repo, you also need to clone and setup the backend application from the below repo
-[Local Image Compression Tool backend](https://github.com/shashicode/compress-backend)
+[Local Image Compression Tool backend](https://github.com/shashicode/jumo-compress-backend)
